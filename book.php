@@ -21,95 +21,11 @@
         <div id="menu-btn" class="fas fa-bars"></div>
     </section>
 
-    <!-- Fin de la seccion HEADER -->
+    <!-- FIN DE LA SECCION HEADER -->
 
-    <!-- Inicio de la seccion HOME -->
-
-    <section class="home">
-
-        <div class="swiper home-slider">
-
-            <div class="swiper-wrapper">
-
-                <div class="swiper-slide slide" style="background:url(./img/home-slide-1.jpg) no-repeat">
-                    <div class="content">
-                        <span>explora, descubre, viaja</span>
-                        <h3>Viaje alrededor del mundo</h3>
-                        <a href="./package.php" class="btn">Descubre más</a>
-                    </div>
-                </div>
-
-                <div class="swiper-slide slide" style="background:url(./img/home-slide-2.jpg) no-repeat">
-                    <div class="content">
-                        <span>explora, descubre, viaja</span>
-                        <h3>Descubre nuevos lugares</h3>
-                        <a href="./package.php" class="btn">Descubre más</a>
-                    </div>
-                </div>
-
-                <div class="swiper-slide slide" style="background:url(./img/home-slide-3.jpg) no-repeat">
-                    <div class="content">
-                        <span>explora, descubre, viaja</span>
-                        <h3>Haz que tu viaje valga la pena</h3>
-                        <a href="./package.php" class="btn">Descubre más</a>
-                    </div>
-                </div>
-
-            </div>
-
-            <div class="swiper-button-next"></div>
-            <div class="swiper-button-prev"></div>
-        </div>
-    </section>
-
-    <!-- Fin de la seccion HOME -->
-
-    <!-- Inicio de la seccion SERVICES -->
-
-    <section class="services">
-
-        <h1 class="heading-title">Nuestros servicios</h1>
-
-        <div class="box-container">
-
-            <div class="box">
-                <img src="./img/icon-1.png" alt="">
-                <h3>andventure</h3>
-            </div>
-
-            <div class="box">
-                <img src="./img/icon-2.png" alt="">
-                <h3>guía turística</h3>
-            </div>
-
-            <div class="box">
-                <img src="./img/icon-3.png" alt="">
-                <h3>Excursionismo</h3>
-            </div>
-
-            <div class="box">
-                <img src="./img/icon-4.png" alt="">
-                <h3>fogata</h3>
-            </div>
-
-            <div class="box">
-                <img src="./img/icon-5.png" alt="">
-                <h3>off road</h3>
-            </div>
-
-            <div class="box">
-                <img src="./img/icon-6.png" alt="">
-                <h3>cámping</h3>
-            </div>
-
-        </div>
-
-
-    </section>
-
-    <!-- Fin de la seccion HEADER -->
-
-    
+    <div class="heading" style="background:url(./img/header-bg-3.png) no-repeat">
+        <h1>reservar</h1> 
+    </div>
     
 
 
@@ -132,7 +48,7 @@
                 <a href="./home.php"><i class="fas fa-angle-right"></i> inicio</a>
                 <a href="./about.php"><i class="fas fa-angle-right"></i> acerca de</a>
                 <a href="./package.php"><i class="fas fa-angle-right"></i> paquetes</a>
-                <a href="./book.php"><i class="fas fa-angle-right"></i> reserva</a>
+                <a href="./book.php"><i class="fas fa-angle-right"></i> reservar</a>
             </div>
 
             <div class="box">
