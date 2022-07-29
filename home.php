@@ -10,6 +10,16 @@
     <title>Home</title>
 </head>
 <body>
+    <section class="header">
+        <a href="./home.php" class="logo">Travel.</a>
+        <nav class="navbar">
+            <a href="./home.php">Inicio</a>
+            <a href="./about.php">Acerca de</a>
+            <a href="./package.php">Paquetes</a>
+            <a href="./book.php">Reservaciones</a>
+        </nav>
+        <div id="menu-btn" class="fas fa-bars"></div>
+    </section>
     
     <script src="https://cdn.jsdelivr.net/npm/swiper@8/swiper-bundle.min.js"></script>
     <script src="./js/script.js"></script>
